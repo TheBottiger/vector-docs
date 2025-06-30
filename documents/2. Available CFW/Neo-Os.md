@@ -1,6 +1,6 @@
 # Neo-OS
 
-Neo-Os was created and developed by [The-Bottiger]https://github.com/TheBottiger if you want to check it out here [Neo-Os]https://github.com/TheBottiger/Neo-OS-oelinux it would be a
+Neo-Os was created and developed by [The-Bottiger](https://github.com/TheBottiger) if you want to check it out here [Neo-Os](https://github.com/TheBottiger/Neo-OS-oelinux) it would be a
 pleasure if you tried it!
 
 
