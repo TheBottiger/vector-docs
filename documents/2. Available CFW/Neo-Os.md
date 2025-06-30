@@ -1,12 +1,12 @@
 # Neo-OS
 
 Neo-Os was created and developed by [The-Bottiger](https://github.com/TheBottiger) if you want to check it out here [Neo-Os](https://github.com/TheBottiger/Neo-OS-oelinux) it would be a
-pleasure if you tried it!
+pleasure if you try it!
 
 
 # What does it does and what is the sole purpose?
 
-Neo-Os is an Matrix look alike experience via appearance, alongisde with a Matrix Rampotst and Boot Animation and the purpose of making this OS is
+Neo-Os is an Matrix look alike experience via appearance based on [Wire-OS](https://github.com/os-vector/wire-os), alongisde with a Matrix Rampotst and Boot Animation and the purpose of making this OS is
 making other people happy and productive.
 
 # My Experience and how I decided to work on this project
